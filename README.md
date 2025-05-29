@@ -694,5 +694,5 @@ export const dummyInterviews: Interview[] = [
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1coEBuVpJxvyMINnyELHdJ4uejRfi_dVO/view?usp=sharing)
 
